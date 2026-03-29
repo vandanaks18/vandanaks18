@@ -17,8 +17,8 @@
 
 ## 👨‍💻 Professional Summary
 MCA candidate at Cambridge Institute of Technology with a strong academic foundation (BCA, CGPA: 9.11).
-Hands-on experience in **Java, Spring Boot, Django, REST APIs, and MySQL** through internship at e-Swara Technologies.
-Actively seeking **entry-level Java Full Stack Developer roles**.
+Hands-on experience in *Java, Spring Boot, Django, REST APIs, and MySQL* through internship at e-Swara Technologies.
+Actively seeking *entry-level Java Full Stack Developer roles*.
 
 ---
 
@@ -54,14 +54,14 @@ Actively seeking **entry-level Java Full Stack Developer roles**.
 ## 🏗️ Projects
 
 ### 🔹 Employee Management System
-**Tech Stack:** Java, Spring Boot 3.2, REST API, MySQL, HTML5, CSS3, JavaScript
+*Tech Stack:* Java, Spring Boot 3.2, REST API, MySQL, HTML5, CSS3, JavaScript
 - Developed full-stack EMS with 7 RESTful endpoints supporting complete CRUD operations
 - Implemented 3-layer MVC architecture (Controller → Service → Repository) using Spring Data JPA and Hibernate ORM
 - Built responsive frontend with real-time employee search, dynamic DOM manipulation, and toast notifications
 - 🔗 [GitHub Repo](https://github.com/vandanaks18)
 
 ### 🔹 Blog Website Using Django
-**Tech Stack:** Python, Django, MySQL, HTML5, CSS3, JavaScript
+*Tech Stack:* Python, Django, MySQL, HTML5, CSS3, JavaScript
 - Engineered full-stack Blog Web Application using Django MVT Architecture with ORM-based CRUD operations
 - Implemented user authentication, session management, and Django Admin for real-time content moderation
 - Designed responsive UI using Bootstrap and Django templating engine for seamless cross-device experience
@@ -96,6 +96,6 @@ Actively seeking **entry-level Java Full Stack Developer roles**.
 ---
 
 ## 📬 Contact
-- 📧 **Email:** ksvandana457@gmail.com
-- 🔗 **LinkedIn:** linkedin.com/in/vandana-ks-8a5b623a4
-- 💻 **GitHub:** github.com/vandanaks18
+- 📧 *Email:* ksvandana457@gmail.com
+- 🔗 *LinkedIn:* linkedin.com/in/vandana-ks-8a5b623a4
+- 💻 *GitHub:* github.com/vandanaks18
