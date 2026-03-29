@@ -72,9 +72,9 @@ Actively seeking *entry-level Java Full Stack Developer roles*.
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| MCA (pursuing) | Cambridge Institute of Technology | 2025–2027 | — |
-| BCA | A V Kanthamma College for Women | 2022–2025 | CGPA: 9.11 |
-| Class 12 – PCMC | Hoysaleshwara PU College, Arasikere | 2020–2022 | 80% |
+| MCA (pursuing) | Cambridge Institute of Technology | 2025–2027 | 
+| BCA | A V Kanthamma College for Women | 2022–2025 | 
+| Class 12 – PCMC | Hoysaleshwara PU College, Arasikere | 
 
 ---
 
