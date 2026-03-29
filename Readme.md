@@ -16,7 +16,7 @@
 ---
 
 ## 👨‍💻 Professional Summary
-MCA candidate at Cambridge Institute of Technology with a strong academic foundation (BCA, CGPA: 9.11).
+MCA candidate at Cambridge Institute of Technology with a strong academic foundation .
 Hands-on experience in *Java, Spring Boot, Django, REST APIs, and MySQL* through internship at e-Swara Technologies.
 Actively seeking *entry-level Java Full Stack Developer roles*.
 
