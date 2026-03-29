@@ -70,7 +70,7 @@ Actively seeking *entry-level Java Full Stack Developer roles*.
 
 ## 🎓 Education
 
-| Degree | Institution | Year | Score |
+| Degree | Institution | Year | 
 |--------|-------------|------|-------|
 | MCA (pursuing) | Cambridge Institute of Technology | 2025–2027 | 
 | BCA | A V Kanthamma College for Women | 2022–2025 | 
